@@ -4,7 +4,7 @@
 ---
 
 
-🛠️ Ancien ébéniste reconverti en développeur web et Basé à Lyon, j'apprends à développer des applications modernes avec **HTML**, **CSS**,**PHP**, **JS**, **Symfony** et **Angular**.  
+🛠️ Ancien ébéniste reconverti en développeur web et Basé à Lyon, j'apprends à développer des applications modernes avec **HTML**, **CSS**, **PHP**, **JS**, **Symfony** et **Angular**.  
 
 🌱 En pleine évolution, je commence à m'intéresser à la **cybersécurité**.  
 
