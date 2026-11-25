@@ -1,18 +1,18 @@
 
-### 👋 Bonjour, moi c’est Guillaume  
+### Bonjour, moi c’est Guillaume  
 
 ---
 
 
 🛠️ Ancien ébéniste reconverti en concepteur développeur d'applications Basé à Lyon, je développe principalement en **HTML**, **CSS**, **PHP**, **TypeScript**, **Symfony**, **Angular** et je commence à apprendre **Java**.  
 
-🌱 En pleine évolution, je commence à m'intéresser à la **cybersécurité**.  
+En pleine évolution, je commence à m'intéresser à la **cybersécurité**.  
 
-📚 J’aime apprendre, comprendre comment ça fonctionne en profondeur, et améliorer chaque détails petit à petit. 
+J’aime apprendre, comprendre comment ça fonctionne en profondeur, et améliorer chaque détails petit à petit. 
 
-🧩 Curieux, autonome, et toujours partant pour un nouveau défi technique !
+Curieux, autonome, et toujours partant pour un nouveau défi technique !
 
-💬 Vous souhaitez entrer en contact avec moi? C'est juste **ici** : [<img src="https://img.icons8.com/material-rounded/50/0756B0/chat.png" alt="Contact" />](https://guillaumeloriot.github.io/portfolio/#contact)
+Vous souhaitez entrer en contact avec moi? C'est juste **ici** : [<img src="https://img.icons8.com/material-rounded/50/0756B0/chat.png" alt="Contact" />](https://guillaumeloriot.github.io/portfolio/#contact)
 
 ---
 
