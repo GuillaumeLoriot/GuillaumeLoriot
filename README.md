@@ -4,7 +4,7 @@
 ---
 
 
-🛠️ Ancien ébéniste reconverti en concepteur développeur d'applications Basé à Lyon, je développe principalement en **HTML**, **CSS**, **PHP**, **TypeScript**, **Symfony**, **Angular** et je commence à apprendre **Java**.  
+Ancien ébéniste reconverti en concepteur développeur d'applications Basé à Lyon, je développe principalement en **HTML**, **CSS**, **PHP**, **TypeScript**, **Symfony**, **Angular** et je commence à apprendre **Java**.  
 
 En pleine évolution, je commence à m'intéresser à la **cybersécurité**.  
 
